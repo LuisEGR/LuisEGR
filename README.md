@@ -1,11 +1,11 @@
 <h2>Hi, I'm Luis González! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Architect at <a href="https://www.stratplus.net">StratPlus</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer
 </em></p>
 
 [![Linkedin: luisegr](https://img.shields.io/badge/-Luis%20Gonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inluis-gonz%C3%A1lez-412a20149/)](https://www.linkedin.com/in/luis-gonzález-412a20149/)
 ![GitHub followers](https://img.shields.io/github/followers/LuisEGR?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![](https://visitor-badge.glitch.me/badge?page_id=LuisEGR)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
